@@ -1,3 +1,6 @@
+![blog ui op 1](https://user-images.githubusercontent.com/113667646/202630511-f2800217-bdc1-4247-9801-1059e47f9d28.png)
+![blog ui op 2](https://user-images.githubusercontent.com/113667646/202630525-4fb660c1-10f0-48b3-a5ac-1eb0175322ff.png)
+![blog ui op 3](https://user-images.githubusercontent.com/113667646/202630548-bf59edbb-f00b-4ece-a486-e1c5cfb72997.png)
 # blog_ui_
 
 A new Flutter project.
